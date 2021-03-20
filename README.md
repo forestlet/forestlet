@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @forestlet
-- 👀 I’m interested in painting & coding
-- 🌱 I’m currently learning painting & writing
+- 🌱 I’m interested in painting, writing & coding, and I’m learning them
+- 🤲 I’m currently working on a picture book translation project 👉 [bookdash-cn](https://github.com/forestlet/bookdash-cn)
 - 📫 Contanct me @hyf2021@outlook.com
 
 <!---
