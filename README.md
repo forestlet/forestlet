@@ -2,7 +2,7 @@
 - 🌱 I’m interested in painting, writing & coding, and I’m learning.
 - 🤲 I’m working on a **[picture book translation project(bookdash-cn)](https://github.com/forestlet/bookdash-cn)**
 - 🎵 Or maybe you will find interest in **[Everyday Album](https://github.com/forestlet/everyday-album)**
-- 🌈 Keep an eye on Next-Gen journal **[Life Hue](https://github.com/forestlet/life-hue)**
+- 🌈 Keep an eye on Next-Gen journal **[Chronicle](https://github.com/forestlet/chronicle)**
 - 📫 Contanct me @<hyf2021@outlook.com>
 
 <!---
