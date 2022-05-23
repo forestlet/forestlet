@@ -1,4 +1,4 @@
-- 👋 Hi, I’m `Hugo Hoo`.
+- 👋 Hi, I’m `forestlet`.
 - 🏃‍ I’m interested in painting, writing & coding.
 - 🏠 I’m working on a picture book translation project **[Bookdash-cn](https://github.com/forestlet/bookdash-cn)**
 - 🎼 Or maybe you'll find interest and good music in **[Everyday Album](https://github.com/forestlet/everyday-album)**
