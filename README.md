@@ -1,9 +1,8 @@
-- 👋 Hi, I’m `forestlet`.
-- 🏃‍ I’m interested in painting, writing & coding.
+- 👋 Hi, I’m `forestlet`. I like painting, writing & coding.
 - 🏠 I’m working on a picture book translation project **[Bookdash-cn](https://github.com/forestlet/bookdash-cn)**
-- 🎼 Or maybe you'll find interest and good music in **[Everyday Album](https://github.com/forestlet/everyday-album)**
+- 🎼 Maybe you'll find interest and good music in **[Everyday Album](https://github.com/forestlet/everyday-album)**
 - 🏛️ Keep an eye on Next-Gen Note App **[Mytho Note](https://github.com/mytho-team/mytho-note)**
-- 🐒 Besides, some useful **Tampermonkey Scripts** are in my **[gist](https://gist.github.com/forestlet)**
+- 🐒 Besides, I wrote some useful **[Tampermonkey Scripts](https://gist.github.com/forestlet)**
 - 📫 Contanct me @<hyf2021@outlook.com>
 
 <!---
